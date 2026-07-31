@@ -35,7 +35,7 @@ You can speak in English. The app will translate your speech into Thai. Then you
 ## Notes
 - Translation quality needs to be tested in real-life scenarios.
 - The STT system on mobile seems to be unexpectedly robust to background noise. This could be because modern phones are designed to work well when the user has the speaker enabled. Tested on Android - Samsung A07.
-- The voice type and gender will vary across devices and across operating systems. This will be an issue with a language like Thai that has gender specific ways of speaking e.g. a female voice speaking Thai like a male.
+- The voice type and gender will vary across devices and across operating systems. This will be an issue with Thai because it has gender specific ways of speaking e.g. a female voice speaking Thai like a male might sound strange.
 
 <br>
 
