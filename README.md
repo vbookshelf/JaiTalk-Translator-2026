@@ -1,7 +1,7 @@
 # JaiTalk Translator 2026
 A minimalist browser-based English to Thai voice translator to use on-the-go. 
 
-Initially, I thought there was no reason to build a translation app like this because the free Google Translate app is already available. My guess was that it would be far superior to anything I could build. But, when I actually used it I found that it was sometimes slow and the translation response was cluttered with too much info. This meant that the app was not a pleasure to use on-the-go. 
+Initially, I thought there was no reason to build a translation app like this because the Google Translate app is already available for free. My guess was that it would be far superior to anything I could build. But, when I actually used it I found that it was sometimes slow and the translation response was cluttered with too much info. This meant that the app was not a pleasure to use on-the-go. 
 
 I built JaiTalk with a minimalist UI and a fast STT interface. It may not be as accurate as Google Translate, but it should be helpful for on-the-street use cases e.g. talking to a vendor at a street food stall.
 
