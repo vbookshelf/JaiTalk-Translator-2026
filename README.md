@@ -1,9 +1,13 @@
 # JaiTalk Translator 2026
 A minimalist browser-based English to Thai voice translator to use on-the-go. 
 
+Speak. The app will translate what you say. Click the translation text to hear it spoken out loud.
+
 Live Demo - 2026 version:<br>
 <img src="images/image3.png" alt="App screenshot" width="150"> <br>
 https://jaitalk2026.woza.work/
+
+<br>
 
 Initially, I thought there was no reason to build a translation app like this because the Google Translate app is already available for free. My guess was that it would be far superior to anything I could build. But, when I actually used it I found that it was sometimes slow and the translation response was cluttered with too much info. This meant that the app was not a pleasure to use on-the-go. 
 
