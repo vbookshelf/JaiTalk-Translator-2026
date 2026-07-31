@@ -7,6 +7,9 @@ I built JaiTalk with a minimalist UI and a fast STT interface. It may not be as 
 
 You can speak in English. The app will translate your speech into Thai. Then you can switch the direction to Thai-English and hold the phone for the Thai person to talk into. That person's speech will be translated into English. By using this method it's possible to have a basic back-and-forth conversation.
 
+Online demo - 2026 version:<br>
+https://jaitalk2026.woza.work/
+
 <br>
 
 <br>
