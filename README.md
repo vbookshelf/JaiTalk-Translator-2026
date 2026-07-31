@@ -9,6 +9,18 @@ You can speak in English. The app will translate your speech into Thai. Then you
 
 <br>
 
+<br>
+
+<img src="images/image1.png" alt="App screenshot" height="500">
+<p>Minimalist UI</p>
+
+<br>
+
+<img src="images/image2.png" alt="App screenshot" height="500">
+<p>Clutter-free output</p>
+
+<br>
+
 ## Quick Info
 - Mobile first web app
 - Translates Thai-to-English and English-to-Thai
