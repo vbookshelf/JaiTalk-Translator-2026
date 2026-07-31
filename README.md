@@ -5,7 +5,7 @@ Initially, I thought there was no reason to build a translation app like this be
 
 I built JaiTalk with a minimalist UI and a fast STT interface. It may not be as accurate as Google Translate, but it should be more suitable for on-the-street use cases e.g. talking to a vendor at a street food stall.
 
-First you can speak in English. The app will translate your speech into Thai. Then you can switch the direction to Thai-English and hold the phone for the vendor to talk into. The vendor's speech will be translated into English. By using this method it's possible to have a back-and-forth conversation. This could be useful when checking and negotiating prices.
+You can speak in English. The app will translate your speech into Thai. Then you can switch the direction to Thai-English and hold the phone for the Thai person to talk into. That person's speech will be translated into English. By using this method it's possible to have a basic back-and-forth conversation.
 
 <br>
 
