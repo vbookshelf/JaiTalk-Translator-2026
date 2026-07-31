@@ -24,9 +24,9 @@ You can speak in English. The app will translate your speech into Thai. Then you
 ## Quick Info
 - Mobile first web app
 - Translates Thai-to-English and English-to-Thai
-- Supports voice and text input and ouput
+- Supports voice and text input and output
 - Click any response to play the audio
-- Minimalist UI design
+- Minimalist, clutter-free UI design
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
 - Uses the OpenRouter API (qwen3.5-flash-02-23 by Alibaba)
