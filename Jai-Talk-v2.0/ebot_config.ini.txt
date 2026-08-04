@@ -1,3 +1,0 @@
-[api]
-API_KEY = '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';
-
