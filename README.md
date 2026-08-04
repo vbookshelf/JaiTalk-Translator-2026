@@ -63,7 +63,7 @@ You can speak in English. The app will translate your speech into Thai. Then you
 ## Revision History
 
 Version 2.0<br>
-31-July-2026<br>
+4-Aug-2026<br>
 Released for beta testing.
 
 <br>
