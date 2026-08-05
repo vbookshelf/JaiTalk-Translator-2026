@@ -69,7 +69,7 @@ Version 2.2<br>
 
 Version 2.1<br>
 5-Aug-2026<br>
-- Changed interaction to a walkie-talkie style.
+- Changed voice interaction to a walkie-talkie style.
 - The input and translation text is now cleared each time the mic is clicked.
 - When the mic is clicked the message now reads "Listening for English..." or "Listening for Thai..."
 - When clicked, the mic will auto disable if the user does not speak.
