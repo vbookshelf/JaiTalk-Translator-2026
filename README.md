@@ -62,6 +62,12 @@ You can speak in English. The app will translate your speech into Thai. Then you
 
 ## Revision History
 
+Version 2.1<br>
+- Changed interaction to a walkie-talkie style.
+- The input and translation text is now cleared each time the mic is clicked.
+- Made text larger on language direction selector.
+- Made mic button long to make it easier to reach with one hand on mobile.
+
 Version 2.0<br>
 4-Aug-2026<br>
 Released for beta testing.
