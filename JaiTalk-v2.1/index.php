@@ -633,7 +633,7 @@ function initialize_recognition() {
 
     window.recognition.start();
 
-    userInput.placeholder = 'Listening...';
+    userInput.placeholder = 'Listening for ' + sourceLanguageName + '...';
 
     const button = document.getElementById("start-voicechat-btn");
     if (button) {
