@@ -41,6 +41,7 @@ You can speak in English. The app will translate your speech into Thai. Then you
 - Uses Javascript SpeechRecognition to convert the user's speech into text
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Can be rebranded and self-hosted on any shared hosting platform
+- Users seem to intuitively prefer a walkie-talkie style voice interaction - where they click the mic button each time they want to talk. Clicking the mic also clears any input or translation text that might be on the screen.
 
 <br>
 
