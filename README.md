@@ -63,6 +63,9 @@ You can speak in English. The app will translate your speech into Thai. Then you
 
 ## Revision History
 
+Version 2.2<br>
+- Added timer code to set how long the mic stays on if the user does not speak.
+
 Version 2.1<br>
 - Changed interaction to a walkie-talkie style.
 - The input and translation text is now cleared each time the mic is clicked.
