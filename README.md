@@ -68,7 +68,7 @@ Version 2.1<br>
 - The input and translation text is now cleared each time the mic is clicked.
 - When the mic is clicked the message now reads "Listening for English..." or "Listening for Thai..."
 - When clicked, the mic will auto disable if the user does not speak.
-- Made text larger on language direction selector.
+- Made text larger on language direction selector. This makes the app easier to use by older people and those who are visually impaired.
 - Made mic button long to make it easier to reach with one hand on mobile.
 
 Version 2.0<br>
