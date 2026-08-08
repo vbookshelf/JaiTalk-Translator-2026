@@ -63,6 +63,13 @@ You can speak in English. The app will translate your speech into Thai. Then you
 
 ## Revision History
 
+Version 2.3<br>
+8-Aug-2026<br>
+- Added a translation history. This gets deleted when the tab is closed.
+- Clicking the mic now does not clear the text.
+- Added text to clearly indicate which language the app is listening for.
+- Added an About page.  
+
 Version 2.2<br>
 5-Aug-2026<br>
 - Added timer code to set how long the mic stays on if the user does not speak.
